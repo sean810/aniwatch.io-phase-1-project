@@ -1,0 +1,324 @@
+{
+    "animes": [
+        {
+            "id": 1,
+            "title": "Attack on Titan",
+            "genre": "Action",
+            "rating": "9.0",
+            "poster": "https://m.media-amazon.com/images/I/71pfZifWM7L._AC_UF894,1000_QL80_.jpg",
+            "description": "In a world where humanity resides within enormous walled cities to protect themselves from Titans, colossal humanoid creatures, the story follows Eren Yeager and his friends who join the military to fight the Titans."
+        },
+        {
+            "id": 2,
+            "title": "Bleach",
+            "genre": "Action",
+            "rating": "8.5",
+            "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeiZNHztFDdLJ1rCWg9Ue-SA0cfgBPyNlHGg&s",
+            "description": "Ichigo Kurosaki is a teenager who can see spirits. After meeting Rukia Kuchiki, a Soul Reaper, he takes on the duties of a Soul Reaper to protect the living world from evil spirits."
+        },
+        {
+            "id": 3,
+            "title": "Demon Slayer",
+            "genre": "Adventure",
+            "rating": "9.2",
+            "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST4eBkk0-STBcaoXJrmn2LN_t1FLhVolP0Sw&s",
+            "description": "After his family is slaughtered by demons, Tanjiro Kamado becomes a Demon Slayer to avenge his family and cure his sister Nezuko, who has been turned into a demon."
+        },
+        {
+            "id": 4,
+            "title": "Jujutsu Kaisen",
+            "genre": "Action",
+            "rating": "9.5",
+            "poster": "https://m.media-amazon.com/images/I/81pIScLav4L._AC_UF1000,1000_QL80_.jpg",
+            "description": "Yuji Itadori joins a secret organization to combat malevolent spirits and sorcerers after he consumes a cursed object that bonds him with the spirit of Ryomen Sukuna."
+        },
+        {
+            "id": 5,
+            "title": "Naruto",
+            "genre": "Action",
+            "rating": "8.3",
+            "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeMXfHPMahb-cuFpWwlrGaFRgs_CuQIu7uuw&s",
+            "description": "The story follows Naruto Uzumaki, a young ninja seeking recognition and aspiring to become the Hokage, the village leader, despite being ostracized for hosting the Nine-Tails."
+        },
+        {
+            "id": 6,
+            "title": "My Hero Academia",
+            "genre": "Action",
+            "rating": "8.6",
+            "poster": "https://m.media-amazon.com/images/I/71sNBqs5qWL._AC_SL1001_.jpg",
+            "description": "In a world where almost every human has superpowers known as 'Quirks', Izuku Midoriya, a Quirkless boy, dreams of becoming a hero and enrolls in a prestigious academy for heroes."
+        },
+        {
+            "id": 7,
+            "title": "One Punch Man",
+            "genre": "Comedy, Action",
+            "rating": "8.8",
+            "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsNJzhM3orFfhuI_rox2ChZW5envUTIE28qA&s",
+            "description": "Saitama, a superhero who can defeat any opponent with a single punch, struggles with the mundanity of his life and seeks a worthy opponent."
+        },
+        {
+            "id": 8,
+            "title": "Fullmetal Alchemist: Brotherhood",
+            "genre": "Adventure, Fantasy",
+            "rating": "9.1",
+            "poster": "https://down-ph.img.susercontent.com/file/1e06d50901dadfe8f043cf18f309e305",
+            "description": "Two brothers, Edward and Alphonse Elric, use alchemy in search of the Philosopher's Stone to restore their bodies after a failed transmutation to bring their mother back to life."
+        },
+        {
+            "id": 9,
+            "title": "Tokyo Ghoul",
+            "genre": "Horror, Action",
+            "rating": "7.9",
+            "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFH9F0MLBRDLcQfuKI-Y1NOspf5UMpzYh_NA&s",
+            "description": "Ken Kaneki becomes a half-ghoul after a deadly encounter. He must learn to navigate his new life while dealing with both human and ghoul conflicts."
+        },
+        {
+            "id": 10,
+            "title": "Sword Art Online",
+            "genre": "Adventure, Fantasy",
+            "rating": "7.5",
+            "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5NRTO-DDdQivAu96QesjV4r4Zg5zrYDTUZA&s",
+            "description": "Players of a virtual reality MMORPG find themselves trapped in the game, where dying in-game means dying in real life. Kirito, a skilled player, must navigate this dangerous world."
+        },
+        {
+            "id": 11,
+            "title": "Hunter x Hunter",
+            "genre": "Adventure, Fantasy",
+            "rating": "9.3",
+            "poster": "https://m.media-amazon.com/images/I/71Kelxa3EVL._AC_UF894,1000_QL80_.jpg",
+            "description": "Gon Freecss embarks on a journey to become a Hunter and find his father, facing various challenges and meeting friends along the way."
+        },
+        {
+            "id": 12,
+            "title": "Death Note",
+            "genre": "Mystery, Thriller",
+            "rating": "9.0",
+            "poster": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ed9caac5-642e-412e-afed-5065f43e9afe/d2hz8ug-6d083811-d866-4948-b660-4692c88f169c.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2VkOWNhYWM1LTY0MmUtNDEyZS1hZmVkLTUwNjVmNDNlOWFmZVwvZDJoejh1Zy02ZDA4MzgxMS1kODY2LTQ5NDgtYjY2MC00NjkyYzg4ZjE2OWMuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0._t4PVuhdpXTS72v5ZY8g5y8I6zUyTa7uC1ofxI5oEvs",
+            "description": "A high school student discovers a mysterious notebook that allows him to kill anyone whose name he writes in it. He takes on the role of a vigilante, drawing the attention of law enforcement."
+        },
+        {
+            "id": 13,
+            "title": "Fairy Tail",
+            "genre": "Fantasy, Adventure",
+            "rating": "8.0",
+            "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJFH1QVdHTKCcOnLm60Hc-rRf0Xwj1LJ14hw&s",
+            "description": "Lucy Heartfilia, a celestial wizard, joins the Fairy Tail guild and teams up with Natsu Dragneel and his friends on their adventures."
+        },
+        {
+            "id": 14,
+            "title": "One Piece",
+            "genre": "Adventure, Fantasy",
+            "rating": "9.0",
+            "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHIu7aD0ULIvifzXzMr0fKaVUdnubo2Kiz8g&s",
+            "description": "Monkey D. Luffy sets out on a journey to become the Pirate King by finding the legendary One Piece treasure, gathering a diverse crew along the way."
+        },
+        {
+            "id": 15,
+            "title": "Mob Psycho 100",
+            "genre": "Comedy, Action",
+            "rating": "8.7",
+            "poster": "https://images-cdn.ubuy.co.in/63798e0b4d75021bac5d229a-laminated-mob-psycho-100-poster-anime.jpg",
+            "description": "Shigeo Kageyama, a.k.a. Mob, is a powerful psychic with emotional issues who tries to live a normal life while suppressing his abilities."
+        },
+        {
+            "id": 16,
+            "title": "Vinland Saga",
+            "genre": "Action, Adventure",
+            "rating": "8.8",
+            "poster": "https://m.media-amazon.com/images/I/81rPC0owmrL._AC_UF894,1000_QL80_.jpg",
+            "description": "Thorfinn seeks revenge against Askeladd, the man who killed his father, while navigating the harsh realities of Viking life."
+        },
+        {
+            "id": 17,
+            "title": "Your Name",
+            "genre": "Romance, Fantasy",
+            "rating": "8.9",
+            "poster": "https://ih1.redbubble.net/image.2712019396.9690/flat,750x,075,f-pad,750x1000,f8f8f8.jpg",
+            "description": "Two high school students, Taki and Mitsuha, discover they can swap bodies, leading to a mystical connection that transcends time and space."
+        },
+        {
+            "id": 18,
+            "title": "Steins;Gate",
+            "genre": "Sci-Fi, Thriller",
+            "rating": "9.0",
+            "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_g_2HOV0gq_8q3Z_Q53TUfY4btOlDRg3z8w&s",
+            "description": "A self-proclaimed mad scientist discovers a way to send messages to the past, which leads to unforeseen consequences."
+        },
+        {
+            "id": 19,
+            "title": "Berserk (2004)",
+            "genre": "Action, Fantasy, Drama",
+            "rating": "8.6",
+            "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb3nqGWnuMlPhiiXzitExg6y4vTk3Xb1be-g&s",
+            "description": "The story follows Guts, a lone mercenary with a tragic past, who battles demonic foes and seeks revenge against his former friend Griffith in a dark, medieval world."
+        },
+        {
+            "id": 20,
+            "title": "Code Geass",
+            "genre": "Action, Mecha",
+            "rating": "9.0",
+            "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYEzpXWfdIPKPkfqTX7FoteR2f9NBOgjHUeQ&s",
+            "description": "Lelouch vi Britannia gains the power of Geass, allowing him to command anyone to do his bidding, which he uses to lead a rebellion against the Holy Britannian Empire."
+        },
+        {
+            "id": 21,
+            "title": "My Dress-Up Darling",
+            "genre": "Romance, Comedy",
+            "rating": "8.7",
+            "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJw54uVrXxejNuKSDOR6Ns6JrGTOLEa1VAgg&s",
+            "description": "Wakana Gojo, a high school boy who dreams of becoming a hina doll craftsman, ends up helping his classmate Marin Kitagawa with her cosplay."
+        },
+        {
+            "id": 22,
+            "title": "The Rising of the Shield Hero",
+            "genre": "Action, Fantasy",
+            "rating": "8.3",
+            "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS-aR-GOmhH82ZljpwcoclkgT5S3nEPH0jzw&s",
+            "description": "Naofumi Iwatani is summoned to a fantasy world as the Shield Hero and must fight against waves of monsters while dealing with betrayal and mistrust."
+        },
+        {
+            "id": 23,
+            "title": "Re:Zero - Starting Life in Another World",
+            "genre": "Fantasy, Drama",
+            "rating": "8.5",
+            "poster": "https://m.media-amazon.com/images/I/71-FyKqJZtL._AC_UF1000,1000_QL80_.jpg",
+            "description": "Subaru Natsuki finds himself transported to a fantasy world where he discovers he has the ability to reverse time upon death."
+        },
+        {
+            "id": 24,
+            "title": "Dorohedoro",
+            "genre": "Action, Fantasy",
+            "rating": "8.0",
+            "poster": "https://m.media-amazon.com/images/I/719t+4xGdlL._AC_UF894,1000_QL80_.jpg",
+            "description": "Caiman, a man with a reptilian head, seeks to uncover the truth behind his transformation and find the sorcerer responsible."
+        },
+        {
+            "id": 25,
+            "title": "Eminence in Shadow",
+            "genre": "Action, Comedy, Fantasy",
+            "rating": "7.8",
+            "poster": "https://pixeldemonmg.co.uk/cdn/shop/files/TheEminenceInShadow.jpg?v=1713045723&width=1214",
+            "description": "A boy dreams of being a mastermind behind the scenes in a world filled with magic and fantasy. He forms a secret organization to fight against the cult he created, believing it to be real."
+        },
+        {
+            "id": 26,
+            "title": "Fate/Zero",
+            "genre": "Action, Fantasy",
+            "rating": "9.0",
+            "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-cEm0v0rkGlNmflP-rsuWCu1zecZmduRKjw&s",
+            "description": "Seven mages summon heroic spirits to compete in a battle royale for the Holy Grail, a powerful wish-granting artifact."
+        },
+        {
+            "id": 27,
+            "title": "Tokyo Revengers",
+            "genre": "Action, Sci-Fi",
+            "rating": "8.0",
+            "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkGwpghaFJruDjLwroz2nzxZn18sjoe8bn-A&s",
+            "description": "Takemichi Hanagaki discovers he can travel back in time to his middle school days and attempts to save his ex-girlfriend from being murdered by a gang, while trying to change the fate of his friends."
+        },
+        {
+            "id": 28,
+            "title": "Your Lie in April",
+            "genre": "Drama, Music, Romance",
+            "rating": "8.8",
+            "poster": "https://ih1.redbubble.net/image.2283865325.2388/flat,750x,075,f-pad,750x1000,f8f8f8.jpg",
+            "description": "A piano prodigy who has lost the ability to hear the sound of his own music meets a free-spirited violinist who helps him rediscover his love for music."
+        },
+        {
+            "id": 29,
+            "title": "Black Clover",
+            "genre": "Action, Fantasy",
+            "rating": "7.8",
+            "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9tFKso0z60cszNCSrfXhF2FvGcxlHemD-cg&s",
+            "description": "Asta, a boy born without magical power, aspires to become the Wizard King while his rival Yuno, blessed with immense magical talent, seeks the same goal."
+        },
+        {
+            "id": 36,
+            "title": "Hajime no Ippo",
+            "genre": "Action, Sports, Drama",
+            "rating": "8.8",
+            "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWfv5YrWCBmIVwDMkTaUNpM915Wz7s41c8wQ&s",
+            "description": "Ippo Makunouchi, a high school student, embarks on a journey to become a professional boxer, facing challenges in and out of the ring."
+        },
+        {
+            "id": 36,
+            "title": "JoJo's Bizarre Adventure",
+            "genre": "Action, Adventure, Supernatural",
+            "rating": "8.5",
+            "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIyqk2bCtjGjRa_LqHYH8ArmAX247cC1ELPg&s",
+            "description": "The story follows the Joestar family across generations as they battle supernatural foes using unique powers known as Stands."
+        },
+        {
+            "id": 36,
+            "title": "Baki Hanma",
+            "genre": "Action, Martial Arts, Sports",
+            "rating": "8.0",
+            "poster": "https://image.tmdb.org/t/p/original/rRprMmPmeAWowqplv3k0v6glxqS.jpg",
+            "description": "Baki Hanma, the son of the legendary martial artist Yujiro Hanma, trains to surpass his father and confronts various fighters in brutal matches."
+        },
+        {
+            "id": 33,
+            "title": "Baccano!",
+            "genre": "Action, Mystery",
+            "rating": "7.9",
+            "poster": "https://media.themoviedb.org/t/p/w220_and_h330_face/uFR6Tg3qicVYfmMzh3RtRRc2sOj.jpg",
+            "description": "Set in the early 1930s, this series follows a group of immortals and a band of criminals aboard a train, intertwining their stories with themes of fate and adventure."
+        },
+        {
+            "id": 34,
+            "title": "Kino's Journey",
+            "genre": "Adventure, Fantasy",
+            "rating": "7.8",
+            "poster": "https://m.media-amazon.com/images/I/81bGSdA1NgL._AC_UF1000,1000_QL80_.jpg",
+            "description": "Kino travels through various countries on her talking motorcycle, exploring the cultures and philosophies of each place she visits."
+        },
+        {
+            "id": 35,
+            "title": "Shiki",
+            "genre": "Horror, Mystery",
+            "rating": "7.9",
+            "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFfPt8BfXZb2WXERlEV9IBhwm-VCcIlrh36w&s",
+            "description": "In a remote village, a series of mysterious deaths occur, leading to the discovery of a vampire-like presence that threatens the inhabitants."
+        },
+        {
+            "id": 36,
+            "title": "Fire Force",
+            "genre": "Action, Supernatural, Fantasy",
+            "rating": "7.9",
+            "poster": "https://i.pinimg.com/736x/7a/c5/53/7ac5530dea45c7d8a4ccadddecb36532.jpg",
+            "description": "In a world where spontaneous human combustion transforms people into fire-wielding monsters, Shinra Kusakabe joins Special Fire Force Company 8 to save humanity from these infernal threats."
+        },
+        {
+            "id": 37,
+            "title": "Mushishi",
+            "genre": "Fantasy, Slice of Life",
+            "rating": "8.0",
+            "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU6vAOWa3zc7q4jvFuv7QyBpuK6i5X9528-KYN17iOd_l-VX5ZfwMwcKddUGZdXUzpTS4&usqp=CAU",
+            "description": "A wandering scholar named Ginko travels through rural Japan, investigating creatures known as Mushi and helping people affected by them."
+        },
+        {
+            "id": 38,
+            "title": "Dragon Ball Super",
+            "genre": "Action, Adventure, Fantasy",
+            "rating": "8.3",
+            "poster": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e858f0b0-1c68-4459-9031-a39f28fe37bf/dbyhp77-4d5d70ae-3207-4b40-9143-d731d0afd8c0.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2U4NThmMGIwLTFjNjgtNDQ1OS05MDMxLWEzOWYyOGZlMzdiZlwvZGJ5aHA3Ny00ZDVkNzBhZS0zMjA3LTRiNDAtOTE0My1kNzMxZDBhZmQ4YzAuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.YiVOGzaeA5JE46NxmzDG5Zz-zpIebrox-Ip7-MBAX7U",
+            "description": "Set after the defeat of Majin Buu, Goku and his friends face new challenges and enemies while exploring the multiverse, discovering new powers and transformations."
+        },
+        {
+            "id": 39,
+            "title": "Space Dandy",
+            "genre": "Comedy, Sci-Fi",
+            "rating": "7.8",
+            "poster": "https://m.media-amazon.com/images/I/51PxzvEXPCL._AC_UF894,1000_QL80_.jpg",
+            "description": "Dandy, a bounty hunter in space, travels the galaxy with his crew, encountering bizarre aliens and hilarious situations."
+        },
+        {
+            "id": 36,
+            "title": "Monster Musume",
+            "genre": "Comedy, Harem, Fantasy",
+            "rating": "7.4",
+            "poster": "https://www.1999.co.jp/itbig34/10348501a2_m.jpg",
+            "description": "In a world where monster girls coexist with humans, the story follows a young man who must live with various monster girls, leading to comedic and often awkward situations."
+        }
+    ]
+}
