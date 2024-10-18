@@ -233,7 +233,7 @@
             "description": "Asta, a boy born without magical power, aspires to become the Wizard King while his rival Yuno, blessed with immense magical talent, seeks the same goal."
         },
         {
-            "id": 36,
+            "id": 30,
             "title": "Hajime no Ippo",
             "genre": "Action, Sports, Drama",
             "rating": "8.8",
@@ -241,7 +241,7 @@
             "description": "Ippo Makunouchi, a high school student, embarks on a journey to become a professional boxer, facing challenges in and out of the ring."
         },
         {
-            "id": 36,
+            "id": 31,
             "title": "JoJo's Bizarre Adventure",
             "genre": "Action, Adventure, Supernatural",
             "rating": "8.5",
@@ -249,7 +249,7 @@
             "description": "The story follows the Joestar family across generations as they battle supernatural foes using unique powers known as Stands."
         },
         {
-            "id": 36,
+            "id": 32,
             "title": "Baki Hanma",
             "genre": "Action, Martial Arts, Sports",
             "rating": "8.0",
@@ -313,7 +313,7 @@
             "description": "Dandy, a bounty hunter in space, travels the galaxy with his crew, encountering bizarre aliens and hilarious situations."
         },
         {
-            "id": 36,
+            "id": 40,
             "title": "Monster Musume",
             "genre": "Comedy, Harem, Fantasy",
             "rating": "7.4",
